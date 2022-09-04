@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Shahbaz Ali</h1>
-<h3 align="center">A passionate QA Automation Lead cum Full Stack Developer from India</h3>
+<h3 align="center">i'm a passionate Senior QA Automation Engineer & Full Stack Developer working @Siemens, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codemdshahbazali&label=Profile%20views&color=0e75b6&style=flat" alt="codemdshahbazali" /> </p>
 
